@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MODBUS_SERIAR", "MODBUS_SERIAR\MODBUS_SERIAR.shproj", "{D0F6327E-BFFB-46BF-9543-85E710588191}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MODBUS_SERIAR\MODBUS_SERIAR.projitems*{d0f6327e-bffb-46bf-9543-85e710588191}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058D4C0F-AB3A-42E7-9E83-5E4E6399D536}
+	EndGlobalSection
+EndGlobal
